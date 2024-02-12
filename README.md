@@ -1,1 +1,1 @@
-# first-data-science-project
+# Data Science project
